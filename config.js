@@ -53,23 +53,23 @@ global.sdc = 'https://github.com/arybotz'
 global.snh = 'https://youtube.com/c/AryBotz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085762008398'
-global.povo = 'Gaada bang :v'
-global.pgopay = 'Gaada bang :v'
-global.ppulsa = '085762008398'
-global.ppulsa2 = '085762008398'
+global.pdana = '085962734007'
+global.povo = '083862006229'
+global.pgopay = '083862006229'
+global.ppulsa = '083862006229'
+global.ppulsa2 = '085962734007'
 global.psaweria = 'https://saweria.co/arybotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
-global.namebot = 'AryBotz Ofc'
-global.nameown = 'X Ary Offcial'
+global.nomorbot = '6283197602989'
+global.nomorown = '6283862006229'
+global.namebot = 'Shirohige-MD'
+global.nameown = 'Skyxmoon Offcial'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281264038909', 'X Ary Offcial', true]
+  ['6283862006229', 'Skyxmoon Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 AryBotz |Ary Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 Ary Botz 乂     '
-global.wm3 = 'Ary Botz |ᗪ'
+global.wm = '「 Shirohige-MD |Skyxmoon Offcial⁩ 」' //Main Watermark
+global.wm2 = '    乂 Shirohige Botz 乂     '
+global.wm3 = 'Shirohige Botz |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'AryBotz-MD✯✯✯✯✯ '
+global.titlebot = 'Shirohige-MD✯✯✯✯✯ '
 global.author = global.wm
 
 
