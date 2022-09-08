@@ -1,5 +1,5 @@
 {
-    "name": "Shirohige BOT",
+    "name": "Kanna BOT",
     "version": "2.10.18",
     "description": "RPG WhatsApp BOT",
     "main": "index.js",
@@ -39,7 +39,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:Jikarinka/baileys",
+        "@adiwajshing/baileys": "^4.0.4",
         "@bochilteam/scraper": "^2.0.0",
         "awesome-phonenumber": "^2.68.0",
         "axios": "^0.24.0",
