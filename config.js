@@ -61,9 +61,9 @@ global.ppulsa2 = '085962734007'
 global.psaweria = 'https://saweria.co/arybotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283197602989'
+global.nomorbot = '6283862006229'
 global.nomorown = '6283862006229'
-global.namebot = 'Shirohige-MD'
+global.namebot = 'Filo BOT'
 global.nameown = 'Skyxmoon Offcial'
 
 
